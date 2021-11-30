@@ -1,12 +1,12 @@
 **********************************************
 Este é um projeto desenvolvido para a disciplina de Programação Script, ministrada pelo professor Antonio Clementiono Neto no segundo semestre de 2021, na FATEC-Franca.
 
+O backend deste projeto tem como base o projeto 'livros', desenvolvido durante as aulas da disciplina. 
+
+Já o frontend foi desenvolvido tomando como base o projeto desenvolvido durante a disciplina Programação WEB (1° semestre 2021), na qual aprendemos a utilizar os componentes da lib @materialui para gerar a estilização dos botões, tabelas e modais do projeto. 
+
 
 Autor: Rafael Sobrinho Laporte
-
-
-
-
 *************************************************
 
 
